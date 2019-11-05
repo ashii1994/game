@@ -1,0 +1,8 @@
+=============== Sep 15, 2019 (IST) ===============
+22:19:35.211877 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:19:35.218879 db@open opening
+22:19:35.219878 version@stat F·[] S·0B[] Sc·[]
+22:19:35.223996 db@janitor F·2 G·0
+22:19:35.223996 db@open done T·5.1171ms
+22:19:35.234999 db@close closing
+22:19:35.237000 db@close done T·2.0011ms
